@@ -1,0 +1,4 @@
+﻿  CG_shaped_jacpre.c
+C:\Users\T4\Desktop\project\project_2\CG_shaped_jacpre\CG_shaped_jacpre\CG_shaped_jacpre.c(127,20): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\CG_shaped_jacpre\CG_shaped_jacpre\CG_shaped_jacpre.c(170,16): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  CG_shaped_jacpre.vcxproj -> C:\Users\T4\Desktop\project\project_2\CG_shaped_jacpre\x64\Debug\CG_shaped_jacpre.exe

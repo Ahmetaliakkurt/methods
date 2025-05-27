@@ -1,0 +1,3 @@
+﻿  quadratic_int.c
+C:\Users\T4\Desktop\project\project_2\quadratic_int\quadratic_int\quadratic_int.c(63,12): warning C4566: '\u2010' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  quadratic_int.vcxproj -> C:\Users\T4\Desktop\project\project_2\quadratic_int\x64\Debug\quadratic_int.exe

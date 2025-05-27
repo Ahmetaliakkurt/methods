@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_ssorpre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4DDCCD-0080-4A86-A3BF-99F5A4EE8673}|CG_shaped_ssorpre\\CG_shaped_ssorpre.vcxproj|C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_ssorpre\\CG_shaped_ssorpre\\CG_shaped_ssorpre.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F4DDCCD-0080-4A86-A3BF-99F5A4EE8673}|CG_shaped_ssorpre\\CG_shaped_ssorpre.vcxproj|solutionrelative:CG_shaped_ssorpre\\CG_shaped_ssorpre.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CG_shaped_ssorpre.c",
+              "DocumentMoniker": "C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_ssorpre\\CG_shaped_ssorpre\\CG_shaped_ssorpre.c",
+              "RelativeDocumentMoniker": "CG_shaped_ssorpre\\CG_shaped_ssorpre.c",
+              "ToolTip": "C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_ssorpre\\CG_shaped_ssorpre\\CG_shaped_ssorpre.c*",
+              "RelativeToolTip": "CG_shaped_ssorpre\\CG_shaped_ssorpre.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T12:36:20.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

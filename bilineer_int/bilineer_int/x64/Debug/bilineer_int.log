@@ -1,0 +1,5 @@
+﻿  bilineer_int.c
+C:\Users\T4\Desktop\project\project_2\bilineer_int\bilineer_int\bilineer_int.c(65,12): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\bilineer_int\bilineer_int\bilineer_int.c(79,25): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\bilineer_int\bilineer_int\bilineer_int.c(132,28): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  bilineer_int.vcxproj -> C:\Users\T4\Desktop\project\project_2\bilineer_int\x64\Debug\bilineer_int.exe

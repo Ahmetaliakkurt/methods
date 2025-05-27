@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T4\\Desktop\\project\\project_2\\bilineer_int\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D262F9D6-DAE3-4381-BFE4-B4397AEAC6B6}|bilineer_int\\bilineer_int.vcxproj|C:\\Users\\T4\\Desktop\\project\\project_2\\bilineer_int\\bilineer_int\\bilineer_int.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D262F9D6-DAE3-4381-BFE4-B4397AEAC6B6}|bilineer_int\\bilineer_int.vcxproj|solutionrelative:bilineer_int\\bilineer_int.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bilineer_int.c",
+              "DocumentMoniker": "C:\\Users\\T4\\Desktop\\project\\project_2\\bilineer_int\\bilineer_int\\bilineer_int.c",
+              "RelativeDocumentMoniker": "bilineer_int\\bilineer_int.c",
+              "ToolTip": "C:\\Users\\T4\\Desktop\\project\\project_2\\bilineer_int\\bilineer_int\\bilineer_int.c*",
+              "RelativeToolTip": "bilineer_int\\bilineer_int.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T16:34:41.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

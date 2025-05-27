@@ -1,0 +1,6 @@
+﻿  CG_shaped_beta.c
+C:\Users\T4\Desktop\project\project_2\CG_shaped_beta\CG_shaped_beta\CG_shaped_beta.c(111,16): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\CG_shaped_beta\CG_shaped_beta\CG_shaped_beta.c(121,20): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\CG_shaped_beta\CG_shaped_beta\CG_shaped_beta.c(150,12): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\CG_shaped_beta\CG_shaped_beta\CG_shaped_beta.c(155,16): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  CG_shaped_beta.vcxproj -> C:\Users\T4\Desktop\project\project_2\CG_shaped_beta\x64\Debug\CG_shaped_beta.exe

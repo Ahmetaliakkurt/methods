@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8262776D-DC2D-40B2-956F-6B3773A1E3EA}|CG_shaped_beta\\CG_shaped_beta.vcxproj|C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_beta\\CG_shaped_beta\\CG_shaped_beta.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8262776D-DC2D-40B2-956F-6B3773A1E3EA}|CG_shaped_beta\\CG_shaped_beta.vcxproj|solutionrelative:CG_shaped_beta\\CG_shaped_beta.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CG_shaped_beta.c",
+              "DocumentMoniker": "C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_beta\\CG_shaped_beta\\CG_shaped_beta.c",
+              "RelativeDocumentMoniker": "CG_shaped_beta\\CG_shaped_beta.c",
+              "ToolTip": "C:\\Users\\T4\\Desktop\\project\\project_2\\CG_shaped_beta\\CG_shaped_beta\\CG_shaped_beta.c*",
+              "RelativeToolTip": "CG_shaped_beta\\CG_shaped_beta.c*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T11:59:33.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

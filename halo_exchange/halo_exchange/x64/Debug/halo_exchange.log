@@ -1,0 +1,8 @@
+﻿  halo_exchange.c
+C:\Users\T4\Desktop\project\project_2\halo_exchange\halo_exchange\halo_exchange.c(53,12): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\halo_exchange\halo_exchange\halo_exchange.c(71,25): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\halo_exchange\halo_exchange\halo_exchange.c(115,20): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\halo_exchange\halo_exchange\halo_exchange.c(121,16): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\halo_exchange\halo_exchange\halo_exchange.c(124,23): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\T4\Desktop\project\project_2\halo_exchange\halo_exchange\halo_exchange.c(132,12): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  halo_exchange.vcxproj -> C:\Users\T4\Desktop\project\project_2\halo_exchange\x64\Debug\halo_exchange.exe

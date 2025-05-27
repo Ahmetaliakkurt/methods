@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Desktop\\project\\project_2\\CG_shaped\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87CB88A4-21BE-46AB-BF7F-1945072E50F6}|CG_shaped\\CG_shaped.vcxproj|C:\\Users\\ahmet\\Desktop\\project\\project_2\\CG_shaped\\CG_shaped\\CG_shaped.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87CB88A4-21BE-46AB-BF7F-1945072E50F6}|CG_shaped\\CG_shaped.vcxproj|solutionrelative:CG_shaped\\CG_shaped.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CG_shaped.c",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Desktop\\project\\project_2\\CG_shaped\\CG_shaped\\CG_shaped.c",
+              "RelativeDocumentMoniker": "CG_shaped\\CG_shaped.c",
+              "ToolTip": "C:\\Users\\ahmet\\Desktop\\project\\project_2\\CG_shaped\\CG_shaped\\CG_shaped.c",
+              "RelativeToolTip": "CG_shaped\\CG_shaped.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T12:00:51.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  RBGS_shaped.c
+C:\Users\ahmet\Desktop\project\project_2\RBGS_shaped\RBGS_shaped\RBGS_shaped.c(115,20): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\ahmet\Desktop\project\project_2\RBGS_shaped\RBGS_shaped\RBGS_shaped.c(122,16): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\ahmet\Desktop\project\project_2\RBGS_shaped\RBGS_shaped\RBGS_shaped.c(128,16): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\ahmet\Desktop\project\project_2\RBGS_shaped\RBGS_shaped\RBGS_shaped.c(142,12): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\ahmet\Desktop\project\project_2\RBGS_shaped\RBGS_shaped\RBGS_shaped.c(145,12): warning C4566: '\uFFFD' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  RBGS_shaped.vcxproj -> C:\Users\ahmet\Desktop\project\project_2\RBGS_shaped\x64\Debug\RBGS_shaped.exe

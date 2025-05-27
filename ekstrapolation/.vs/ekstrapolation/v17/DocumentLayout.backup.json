@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T4\\Desktop\\project\\project_2\\ekstrapolation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19188FE4-0E1A-4D8D-B798-BABBDE7F55D9}|ekstrapolation\\ekstrapolation.vcxproj|C:\\Users\\T4\\Desktop\\project\\project_2\\ekstrapolation\\ekstrapolation\\ekstrapolation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19188FE4-0E1A-4D8D-B798-BABBDE7F55D9}|ekstrapolation\\ekstrapolation.vcxproj|solutionrelative:ekstrapolation\\ekstrapolation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ekstrapolation.cpp",
+              "DocumentMoniker": "C:\\Users\\T4\\Desktop\\project\\project_2\\ekstrapolation\\ekstrapolation\\ekstrapolation.cpp",
+              "RelativeDocumentMoniker": "ekstrapolation\\ekstrapolation.cpp",
+              "ToolTip": "C:\\Users\\T4\\Desktop\\project\\project_2\\ekstrapolation\\ekstrapolation\\ekstrapolation.cpp*",
+              "RelativeToolTip": "ekstrapolation\\ekstrapolation.cpp*",
+              "ViewState": "AgIAAIQAAAAAAAAAAADwv6sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T12:37:36.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

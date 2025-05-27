@@ -1,0 +1,3 @@
+﻿  multilinear_int.c
+C:\Users\T4\Desktop\project\project_2\multilinear_int\multilinear_int\multilinear_int.c(32,12): warning C4566: '\u2010' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  multilinear_int.vcxproj -> C:\Users\T4\Desktop\project\project_2\multilinear_int\x64\Debug\multilinear_int.exe
